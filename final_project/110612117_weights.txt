@@ -1,0 +1,4 @@
+https://drive.google.com/file/d/1SAhvjwTpgYVr6-Wx2jl5Ua3zXPZ4rnBv/view?usp=sharing
+
+The model downloaded from it must be place at final_project\training\model\model.pkl4.	The model downloaded from weight.txt must be place at 
+.\training\model\model.pkl
